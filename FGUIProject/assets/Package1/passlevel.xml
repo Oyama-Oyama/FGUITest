@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,1624">
+  <displayList>
+    <component id="n0_jq9t" name="n0" src="jq9t10" fileName="activeBtn.xml" xy="558,876" size="241,101">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n1_jq9t" name="n1" src="jq9t11" fileName="inactiveBtn.xml" xy="161,876" size="244,101">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <text id="n2_jq9t" name="n2" xy="179,647" size="602,168" fontSize="48" color="#cc00ff" align="center" vAlign="middle" autoSize="none" text="你过关啦！！！！">
+      <relation target="" sidePair="width-width,height-height"/>
+      <relation target="n0_jq9t" sidePair=""/>
+    </text>
+    <text id="n3_jq9t" name="n3" xy="180,894" size="203,64" fontSize="36" align="center" vAlign="middle" autoSize="none" text="退出"/>
+    <text id="n4_jq9t" name="n4" xy="570,894" size="203,64" fontSize="36" color="#33ff00" align="center" vAlign="middle" autoSize="none" text="下一关"/>
+  </displayList>
+</component>

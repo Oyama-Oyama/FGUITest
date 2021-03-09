@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,1624">
+  <displayList>
+    <text id="n0_jq9t" name="n0" xy="240,623" size="479,196" fontSize="48" color="#ff0066" align="center" vAlign="middle" autoSize="none" text="失败啦！！！！"/>
+    <component id="n1_jq9t" name="n1" src="jq9t10" fileName="activeBtn.xml" xy="548,899" size="249,101"/>
+    <component id="n2_jq9t" name="n2" src="jq9t11" fileName="inactiveBtn.xml" xy="157,899" size="249,101"/>
+    <text id="n3_jq9t" name="n3" xy="166,899" size="249,101" fontSize="36" align="center" vAlign="middle" autoSize="none" text="退出"/>
+    <text id="n4_jq9t" name="n4" xy="554,899" size="249,101" fontSize="36" color="#ff0066" align="center" vAlign="middle" autoSize="none" text="重玩"/>
+  </displayList>
+</component>

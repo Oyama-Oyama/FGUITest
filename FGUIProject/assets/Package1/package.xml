@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bgx4658f">
+  <resources>
+    <component id="e8nh0" name="game.xml" path="/" exported="true"/>
+    <component id="qcxz2" name="passlevel.xml" path="/" exported="true"/>
+    <component id="qcxz3" name="failure.xml" path="/" exported="true"/>
+    <image id="ijhn6" name="bg.png" path="/bg/"/>
+    <image id="ijhn7" name="bt_freegift_free.png" path="/button/"/>
+    <image id="ijhn8" name="bt_freegift_unclick.png" path="/button/"/>
+    <image id="ijhn9" name="bt_giftpack_price.png" path="/button/"/>
+    <image id="ijhnb" name="gold_fnt.png" path="/Fnt/"/>
+    <font id="ijhna" name="gold_fnt.fnt" path="/Fnt/" texture="ijhnb"/>
+    <image id="ijhnd" name="write_fnt.png" path="/Fnt/"/>
+    <font id="ijhnc" name="write_fnt.fnt" path="/Fnt/" texture="ijhnd"/>
+    <image id="ijhne" name="bubble_1.png" path="/img/"/>
+    <image id="ijhnf" name="bubble_2.png" path="/img/"/>
+    <image id="ijhng" name="bubble_3.png" path="/img/"/>
+    <image id="ijhnh" name="bubble_4.png" path="/img/"/>
+    <image id="ijhni" name="bubble_5.png" path="/img/"/>
+    <image id="ijhnj" name="bubble_6.png" path="/img/"/>
+    <image id="ijhnk" name="bubble_7.png" path="/img/"/>
+    <image id="ijhnl" name="bubble_8.png" path="/img/"/>
+    <image id="ijhnm" name="caihong1.png" path="/img/"/>
+    <image id="ijhnn" name="countdown_bg.png" path="/img/"/>
+    <image id="ijhno" name="line.png" path="/img/"/>
+    <image id="ijhnp" name="line_1.png" path="/img/"/>
+    <image id="ijhnq" name="line_2.png" path="/img/"/>
+    <image id="ijhnr" name="line_3.png" path="/img/"/>
+    <image id="ijhns" name="line_4.png" path="/img/"/>
+    <image id="ijhnt" name="line_5.png" path="/img/"/>
+    <image id="ijhnu" name="line_6.png" path="/img/"/>
+    <image id="ijhnv" name="line_7.png" path="/img/"/>
+    <image id="ijhnw" name="line_8.png" path="/img/"/>
+    <image id="ijhnx" name="line_9.png" path="/img/"/>
+    <image id="ijhny" name="zhadan1.png" path="/img/"/>
+    <component id="jq9t10" name="activeBtn.xml" path="/" exported="true"/>
+    <component id="jq9t11" name="inactiveBtn.xml" path="/" exported="true"/>
+    <component id="qu0b13" name="main.xml" path="/" exported="true"/>
+    <component id="p7q41b" name="bomb.xml" path="/"/>
+    <component id="p7q41c" name="rainbow.xml" path="/"/>
+    <component id="rty61d" name="reward.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

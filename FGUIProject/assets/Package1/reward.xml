@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,1624">
+  <displayList>
+    <text id="n0_rty6" name="n0" xy="92,414" size="721,395" fontSize="48" color="#66ff00" align="center" vAlign="middle" autoSize="none" text="看视频获取道具"/>
+    <component id="n1_rty6" name="n1" src="jq9t10" fileName="activeBtn.xml" xy="520,917" size="319,126"/>
+    <component id="n2_rty6" name="n2" src="jq9t11" fileName="inactiveBtn.xml" xy="72,921" size="319,126"/>
+    <text id="n3_rty6" name="n3" xy="552,948" size="235,64" fontSize="48" color="#66ff00" align="center" autoSize="none" text="现在就看"/>
+    <text id="n4_rty6" name="n4" xy="112,956" size="235,64" fontSize="48" color="#66ff00" align="center" autoSize="none" text="稍后"/>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,1624">
+  <displayList>
+    <component id="n0_qu0b" name="n0" src="jq9t10" fileName="activeBtn.xml" xy="320,972" size="290,121"/>
+    <component id="n1_qu0b" name="n1" src="jq9t11" fileName="inactiveBtn.xml" xy="320,1166" size="292,117"/>
+  </displayList>
+</component>
